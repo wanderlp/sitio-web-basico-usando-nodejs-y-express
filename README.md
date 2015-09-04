@@ -12,3 +12,5 @@ Este un sitio web sencillo y básico que puede ser utilizado como base para nuev
 - morgan
 - serve-favicon
 - stylus
+
+Nota: README en construcción.
